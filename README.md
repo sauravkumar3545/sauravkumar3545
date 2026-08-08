@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurav+Kumar;B.Tech+CSE+Student;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurav+Kumar;B.Tech+CSE+Student;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI" alt="Typing Animation"/>
 </p>
 
 <p align="center">
@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/saurav-kumar-907940376/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sauravkumar3545">
-    <img src="https://img.shields.io/badge/GitHub-Sauravkumar3545-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/sauravkumar3545" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sauravkumar3545-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
@@ -38,27 +38,40 @@
 
 ## 🛠️ Technical Skills
 
+### 📊 Data Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🐍 Python Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="50"/>
-</p>
-
-### 📊 Data Analytics & Visualization
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,pandas,numpy,matplotlib" height="50"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" height="50"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
@@ -71,17 +84,18 @@
 
 An interactive data analytics project exploring IPL match and player data to uncover insights about team performance, player statistics, batting and bowling trends, wins, venues, and match outcomes.
 
-📌 **Key Analysis:**
+**📌 Key Analysis:**
 
-* 🏆 Team-wise performance analysis
-* 👤 Player performance statistics
-* 🏏 Top batsmen and bowlers
-* 🎯 Toss and match outcome analysis
-* 🏟️ Venue-wise insights
-* 📈 Season-wise performance trends
-* 📊 Interactive Power BI dashboard
+- 🏆 Team-wise performance analysis
+- 👤 Player performance statistics
+- 🏏 Top batsmen and bowlers
+- 🎯 Toss and match outcome analysis
+- 🏟️ Venue-wise insights
+- 📈 Season-wise performance trends
+- 📊 Interactive Power BI dashboard
 
-🔗 **GitHub:** [View Project](PROJECT_GITHUB_LINK)
+**🔗 Repository URL:**  
+https://github.com/sauravkumar3545/ipl-data-analytics
 
 ---
 
@@ -91,16 +105,17 @@ An interactive data analytics project exploring IPL match and player data to unc
 
 A business analytics project focused on understanding sales performance, customer behavior, product trends, revenue, and profitability.
 
-📌 **Key Analysis:**
+**📌 Key Analysis:**
 
-* 📅 Monthly and yearly sales trends
-* 🛍️ Top-performing products
-* 👥 Customer segmentation
-* 💰 Revenue and profit analysis
-* 📦 Category-wise performance
-* 🌍 Regional sales insights
+- 📅 Monthly and yearly sales trends
+- 🛍️ Top-performing products
+- 👥 Customer segmentation
+- 💰 Revenue and profit analysis
+- 📦 Category-wise performance
+- 🌍 Regional sales insights
 
-🔗 **GitHub:** [View Project](PROJECT_GITHUB_LINK)
+**🔗 Repository URL:**  
+https://github.com/sauravkumar3545/ecommerce-sales-analytics
 
 ---
 
@@ -110,16 +125,17 @@ A business analytics project focused on understanding sales performance, custome
 
 Exploratory data analysis of Netflix movies and TV shows to identify content trends, genres, release patterns, ratings, and country-wise distribution.
 
-📌 **Key Analysis:**
+**📌 Key Analysis:**
 
-* 🎥 Movies vs TV Shows
-* 🎭 Most popular genres
-* 📅 Content released over the years
-* 🌎 Country-wise content distribution
-* ⭐ Rating analysis
-* 📈 Content growth trends
+- 🎥 Movies vs TV Shows
+- 🎭 Most popular genres
+- 📅 Content released over the years
+- 🌎 Country-wise content distribution
+- ⭐ Rating analysis
+- 📈 Content growth trends
 
-🔗 **GitHub:** [View Project](PROJECT_GITHUB_LINK)
+**🔗 Repository URL:**  
+https://github.com/sauravkumar3545/netflix-data-analysis
 
 ---
 
@@ -129,24 +145,25 @@ Exploratory data analysis of Netflix movies and TV shows to identify content tre
 
 An AI-powered application that analyzes resumes and provides insights by comparing resume content with job requirements.
 
-📌 **Features:**
+**📌 Features:**
 
-* 📄 Resume text extraction
-* 🔍 Skills identification
-* 🎯 Job description matching
-* 📊 Resume scoring
-* 🧩 Missing skills detection
-* 💡 Personalized improvement suggestions
+- 📄 Resume text extraction
+- 🔍 Skills identification
+- 🎯 Job description matching
+- 📊 Resume scoring
+- 🧩 Missing skills detection
+- 💡 Personalized improvement suggestions
 
-🔗 **GitHub:** [View Project](PROJECT_GITHUB_LINK)
+**🔗 Repository URL:**  
+https://github.com/sauravkumar3545/ai-resume-analyzer
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sauravkumar3545&show_icons=true&theme=transparent&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauravkumar3545&layout=compact&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravkumar3545&show_icons=true&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravkumar3545&layout=compact&theme=transparent&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -154,7 +171,7 @@ An AI-powered application that analyzes resumes and provides insights by compari
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sauravkumar3545&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sauravkumar3545&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -162,20 +179,32 @@ An AI-powered application that analyzes resumes and provides insights by compari
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sauravkumar3545&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravkumar3545&theme=github-compact&hide_border=true&area=true&custom_title=Saurav%20Kumar%27s%20Contribution%20Graph" width="95%"/>
+</p>
+
+---
+
+## 🐍 Animated Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sauravkumar3545/sauravkumar3545/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sauravkumar3545/sauravkumar3545/output/github-snake.svg">
+    <img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/sauravkumar3545/sauravkumar3545/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-* 📊 Advanced SQL
-* 📈 Power BI & Business Intelligence
-* 🐍 Python for Data Analytics
-* 🧠 Data Structures & Algorithms
-* 🤖 Machine Learning
-* 📊 Advanced Data Visualization
-* 🚀 Real-World Data Analytics Projects
+- 📊 Advanced SQL
+- 📈 Power BI & Business Intelligence
+- 🐍 Python for Data Analytics
+- 🧠 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 📊 Advanced Data Visualization
+- 🚀 Real-World Data Analytics Projects
 
 ---
 
@@ -184,14 +213,14 @@ An AI-powered application that analyzes resumes and provides insights by compari
 I'm always interested in **learning, collaborating, building meaningful projects, and exploring opportunities in Data Analytics, AI, and Technology.**
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/saurav-kumar-907940376/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sauravkumar3545">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/sauravkumar3545" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
