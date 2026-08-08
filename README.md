@@ -195,7 +195,6 @@ https://github.com/sauravkumar3545/ai-resume-analyzer
 ---
 
 ## 🐍 Animated Contribution Snake
-## 🐍 Animated Contribution Snake
 
 <p align="center">
   <picture>
@@ -213,7 +212,7 @@ https://github.com/sauravkumar3545/ai-resume-analyzer
     />
   </picture>
 </p>
----
+
 
 ## 🌱 Currently Learning
 
