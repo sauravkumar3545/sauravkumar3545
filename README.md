@@ -94,8 +94,7 @@ An interactive data analytics project exploring IPL match and player data to unc
 - 📈 Season-wise performance trends
 - 📊 Interactive Power BI dashboard
 
-**🔗 Repository URL**
-
+**🔗 Repository URL:**  
 https://github.com/sauravkumar3545/ipl-data-analytics
 
 ---
@@ -115,8 +114,7 @@ A business analytics project focused on understanding sales performance, custome
 - 📦 Category-wise performance
 - 🌍 Regional sales insights
 
-**🔗 Repository URL**
-
+**🔗 Repository URL:**  
 https://github.com/sauravkumar3545/ecommerce-sales-analytics
 
 ---
@@ -136,8 +134,7 @@ Exploratory data analysis of Netflix movies and TV shows to identify content tre
 - ⭐ Rating analysis
 - 📈 Content growth trends
 
-**🔗 Repository URL**
-
+**🔗 Repository URL:**  
 https://github.com/sauravkumar3545/netflix-data-analysis
 
 ---
@@ -157,24 +154,18 @@ An AI-powered application that analyzes resumes and provides insights by compari
 - 🧩 Missing skills detection
 - 💡 Personalized improvement suggestions
 
-**🔗 Repository URL**
-
+**🔗 Repository URL:**  
 https://github.com/sauravkumar3545/ai-resume-analyzer
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sauravkumar3545&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravkumar3545&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    height="180"
-    alt="Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sauravkumar3545&theme=github-compact&hide_border=true&area=true&custom_title=Saurav%20Kumar%27s%20GitHub%20Activity"
+    width="95%"
+    alt="Saurav Kumar GitHub Activity Graph"
   />
 </p>
 
@@ -241,6 +232,7 @@ https://github.com/sauravkumar3545/ai-resume-analyzer
 I'm always interested in **learning, collaborating, building meaningful projects, and exploring opportunities in Data Analytics, AI, and Technology.**
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/saurav-kumar-907940376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -252,6 +244,7 @@ I'm always interested in **learning, collaborating, building meaningful projects
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
+
 </p>
 
 ---
